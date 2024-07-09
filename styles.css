@@ -22,3 +22,13 @@ body {
     border: 1px solid rgb(61, 56, 56);
     box-shadow: 10px 5px 5px gray;
 }
+
+input {
+    height: 4vh;
+    border-radius: 1vw;
+    margin: 2vh;
+}
+
+label {
+    font-size: 1.5rem;
+}
